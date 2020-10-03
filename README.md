@@ -1,12 +1,26 @@
-### Machine-Learning
+## Machine-Learning
 
-# Intro
+### Intro
+       
+   Hy , Dwarka prasad bairwa is here
 
 
-* Assignment0
 
-* Assignment1
+### Assignment
 
-* Assignment2
+1. Assignment0
 
-* Assignment3
+2. Assignment1
+
+3. Assignment2
+
+4. Assignment3
+
+
+
+use `for` loop
+
+ python
+!pip install seaborn
+
+
