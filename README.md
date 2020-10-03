@@ -1,6 +1,6 @@
 ## Machine-Learning
 
-![](../dp1706/images/pexels-markus-winkler-4578660.jpg)
+![](pexels-markus-winkler-4578660.jpg)
 
 ### Intro
        
