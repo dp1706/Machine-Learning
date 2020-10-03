@@ -27,7 +27,7 @@
    
    7. KNN Algorithm From `Scratch` and `Scikit-learn`
    
-   8.`matplotlib` and `seaborn`
+      8.`matplotlib` and `seaborn`
 
 
 
