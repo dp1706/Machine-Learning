@@ -7,7 +7,12 @@
    
   > For installing python library i used 
   ```python
+  #For python3
   !pip3 install `library-name`
+  
+  #For python
+  !pip install `library-name`
+  
   ```
 > Here All code are in `Google colob` or `Jupyter-Notebook`
 
