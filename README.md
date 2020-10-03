@@ -1,6 +1,5 @@
 ## Machine-Learning
 
-![](pexels-markus-winkler-4578660.jpg)
 
 ### Intro
        
