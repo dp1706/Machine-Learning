@@ -3,11 +3,11 @@
 
 ### Intro
        
- -  Hy , Dwarka prasad bairwa is here. This is my Machine Learning Assignment Repository. In these Assignment I have used  python library like `pandas` `numpy` `scipy` `matplotlib` `seaborn` and other.I used `python3`
+ >  Hy , Dwarka prasad bairwa is here. This is my Machine Learning Assignment Repository. In these Assignment I have used  python library like `pandas` `numpy` `scipy` `matplotlib` `seaborn` and other.I used `python3`
    
   - For installing python library i used 
   ```python
-  >!pip3 install `library-name`
+  !pip3 install `library-name`
   ```
 - Here All code are in `Google colob` or `Jupyter-Notebook`
 
