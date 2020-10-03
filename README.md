@@ -6,7 +6,7 @@
  >  Hy , Dwarka prasad bairwa is here. This is my Machine Learning Assignment Repository. In these Assignment I have used  python library like `pandas` `numpy` `scipy` `matplotlib` `seaborn` and other.I used `python3`
    
   > For installing python library i used 
-  md ```python
+  ```python
   #For python3
   !pip3 install `library-name`
   
