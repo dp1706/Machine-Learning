@@ -20,12 +20,15 @@
    3. Assignment2
 
    4. Assignment3
+   
+   5. Assignment4
+   
+   6. Assignment5
+   
+   7. KNN Algorithm From `Scratch` and `Scikit-learn`
+   
+   8.`matplotlib` and `seaborn`
 
 
-
-use `for` loop
-
- python
-!pip install seaborn
 
 
