@@ -1,6 +1,6 @@
 ## Machine-Learning
 
-![](https://www.pexels.com/photo/working-industry-internet-writing-4578660/)
+![](../dp1706/images/pexels-markus-winkler-4578660.jpg)
 
 ### Intro
        
