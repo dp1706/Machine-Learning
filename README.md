@@ -7,7 +7,7 @@
    
   - For installing python library i used 
   ```python
-  !pip3 install `library-name`
+  >!pip3 install `library-name`
   ```
 - Here All code are in `Google colob` or `Jupyter-Notebook`
 
