@@ -8,7 +8,7 @@
   ```python
   !pip3 install `library-name`
   ```
-
+- Here All code are in `Google colob` or `Jupyter-Notebook`
 
 
 ### Assignment
