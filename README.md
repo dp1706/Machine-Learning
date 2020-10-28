@@ -31,13 +31,13 @@
    
    * **Assignment 5**
    
-     * ***Single Layer Perceptron From Scratch For OR GATE and AND GATE***
+     * Single Layer Perceptron From Scratch For OR GATE and AND GATE
      
-     * ***BAYS CLASSIFIER From Scratch***
+     * BAYS CLASSIFIER From Scratch For BREAST CANCER DATASET
        
    * **Assignment 6**
      
-     * ***Single Layer Perceptron and Multi Layer Perceptron For IRIS DATASET From Scratch***
+     * Single Layer Perceptron and Multi Layer Perceptron For IRIS DATASET From Scratch
      
    * **KNN Algorithm From `Scratch` and `Scikit-learn`**
        
