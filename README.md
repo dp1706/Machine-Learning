@@ -19,22 +19,24 @@
 
 ### Assignments
 
-   #### Assignment0
+       #### Assignment 0
 
-   #### Assignment1
+       #### Assignment 1
 
-   #### Assignment2
+       #### Assignment 2
 
-   #### Assignment3
+       #### Assignment 3
    
-   #### Assignment4
+       #### Assignment 4
    
-   #### Assignment5
+       #### Assignment 5
+       
+       #### Assignment 6
    
-   #### KNN Algorithm From `Scratch` and `Scikit-learn`
-   
-   ####`matplotlib` and `seaborn`
-#
+       #### KNN Algorithm From `Scratch` and `Scikit-learn`
+       
+       #### `matplotlib` and `seaborn`
+
 
 
 
