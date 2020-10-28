@@ -30,6 +30,10 @@
    * **Assignment 4**
    
    * **Assignment 5**
+   
+     * ***Single Layer Perceptron From Scratch For OR GATE and AND GATE***
+     
+     * ***BAYS CLASSIFIER From Scratch***
        
    * **Assignment 6**
      
