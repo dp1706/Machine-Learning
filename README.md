@@ -32,7 +32,9 @@
    * **Assignment 5**
        
    * **Assignment 6**
-   
+     
+     * **Single Layer Perceptron and Multi Layer Perceptron For IRIS DATASET From Scratch
+     
    * **KNN Algorithm From `Scratch` and `Scikit-learn`**
        
    * **`matplotlib` and `seaborn`**
