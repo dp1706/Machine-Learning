@@ -17,24 +17,24 @@
 > Here All code are in `Google colob` or `Jupyter-Notebook`
 
 
-### Assignment
+### Assignments
 
-   1. Assignment0
+   #### Assignment0
 
-   2. Assignment1
+   #### Assignment1
 
-   3. Assignment2
+   #### Assignment2
 
-   4. Assignment3
+   #### Assignment3
    
-   5. Assignment4
+   #### Assignment4
    
-   6. Assignment5
+   #### Assignment5
    
-   7. KNN Algorithm From `Scratch` and `Scikit-learn`
+   #### KNN Algorithm From `Scratch` and `Scikit-learn`
    
-   8.`matplotlib` and `seaborn`
-
+   ####`matplotlib` and `seaborn`
+#
 
 
 
