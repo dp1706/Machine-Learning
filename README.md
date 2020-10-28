@@ -29,6 +29,10 @@
    
    * **Assignment 4**
    
+     * LINEAR REGRESSION
+     
+     * LOGISTIC REGRESSION For BREAST CANCER DATASET
+   
    * **Assignment 5**
    
      * Single Layer Perceptron From Scratch For OR GATE and AND GATE
