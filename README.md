@@ -35,7 +35,7 @@
      
      * LOGISTIC REGRESSION For BREAST CANCER DATASET
    
-   * [**Assignment 5**](https://nbviewer.jupyter.org/github/dp1706/Machine-Learning/blob/master/Assignment%205/Naive_Bays_Classifier_From_Scratch_method2.ipynb)
+   * **Assignment 5**
    
      * Single Layer Perceptron From Scratch For OR GATE and AND GATE
      
