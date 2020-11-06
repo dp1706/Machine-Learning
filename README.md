@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dp1706/Machine-Learning/HEAD) 
 
-To view in [![Jupyter Notebook](https://raw.githubusercontent.com/jupyter/design/master/logo/png-2x/jupyter-sq-text-left.png)](https://nbviewer.jupyter.org/github/dp1706/Machine-Learning/tree/master/)
+To view in [![Jupyter Notebook](jupyter-seeklogo.com.svg)](https://nbviewer.jupyter.org/github/dp1706/Machine-Learning/tree/master/)
 
 ## Machine-Learning
 
