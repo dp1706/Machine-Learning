@@ -37,7 +37,7 @@ To view in [![Jupyter Notebook](https://jupyter.org/assets/main-logo.svg)](https
 
    * **Assignment 3**
    
-       * __`SINGLE LINEAR REGRESSION`
+       * __`SINGLE LINEAR REGRESSION`__
        
        * __`MULTI LINEAR REGRESSION` For `Boston House Pricing DataSet`__
    
@@ -58,6 +58,18 @@ To view in [![Jupyter Notebook](https://jupyter.org/assets/main-logo.svg)](https
      * __`Single Layer Perceptron` For `IRIS DATASET` From Scratch__
      
      * __`Multi Layer Perceptron` For `IRIS DATASET` From Scratch__
+     
+   * __Assignment 7__
+   
+       * __`KMeans` For `IRIS DATASET` From Scratch_
+       
+       * __`KMeans` For `IRIS DATASET` USING `Scikit-Learn`__
+       
+       * __`Elbow Method`
+   
+   * __Assignment 8__
+   
+   * __Assignment 9__
      
    * **KNN Algorithm From `Scratch` and `Scikit-learn`**
        
