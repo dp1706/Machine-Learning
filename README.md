@@ -74,11 +74,11 @@ To view in [![Jupyter Notebook](https://jupyter.org/assets/main-logo.svg)](https
        
        * __Comparing Result Using `Silhouette Coefficient`__
    
-   * __Assignment 9__
+       * __Assignment 9__
    
-       * __`SVM` For `IRIS DATASET`__
+          * __`SVM` For `IRIS DATASET`__
        
-       * __`RBF` For `IRIS DATASET`__
+          * __`RBF` For `IRIS DATASET`__
        
    * __`Bayesian Network`__
    
@@ -88,15 +88,15 @@ To view in [![Jupyter Notebook](https://jupyter.org/assets/main-logo.svg)](https
    
        * __LDA__
        
-        * __`LDA` For `IRIS DATASET` From Scratch__
+          * __`LDA` For `IRIS DATASET` From Scratch__
         
-        * __`LDA` Using Inbuilt Function For `IRIS DATASET`__
+          * __`LDA` Using Inbuilt Function For `IRIS DATASET`__
        
        * __PCA__
        
-        * __`PCA` For `IRIS DATASET` From Scratch__
+          * __`PCA` For `IRIS DATASET` From Scratch__
         
-        * __`PCA` Using Inbuilt Function For `IRIS DATASET`__
+          * __`PCA` Using Inbuilt Function For `IRIS DATASET`__
         
    
    * __`KNN Algorithm` From `Scratch` and `Scikit-learn` For `IRIS DATASET`__
