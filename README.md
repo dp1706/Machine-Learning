@@ -24,6 +24,8 @@ To view in [![Jupyter Notebook](https://jupyter.org/assets/main-logo.svg)](https
 ### Assignments
 
    * **Assignment 0**
+   
+       * __`Numpy` Programs__
 
    * **Assignment 1**
 
