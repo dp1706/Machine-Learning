@@ -22,57 +22,59 @@ To view in [![Jupyter Notebook](https://jupyter.org/assets/main-logo.svg)](https
    * Here All code are in `Google colob` or `Jupyter-Notebook`
 
 
-### Assignments
+### Codes
 
-   * **Assignment 0**
+  * __Assignments__
+  
+       * **Assignment 0**
    
-       * __`Numpy` Programs__
+        * __`Numpy` Programs__
 
-   * **Assignment 1**
+       * **Assignment 1**
    
-       * __`Numpy` Programs__
+          * __`Numpy` Programs__
 
-   * **Assignment 2**
+       * **Assignment 2**
    
-       * __Data Mining__
+          * __Data Mining__
 
-   * **Assignment 3**
+       * **Assignment 3**
    
-       * __`SINGLE LINEAR REGRESSION`__
+          * __`SINGLE LINEAR REGRESSION`__
        
-       * __`MULTI LINEAR REGRESSION` For `Boston House Pricing DataSet`__
+          * __`MULTI LINEAR REGRESSION` For `Boston House Pricing DataSet`__
    
-   * **Assignment 4**
+       * **Assignment 4**
    
-     * __`LINEAR REGRESSION` From Scratch__
+          * __`LINEAR REGRESSION` From Scratch__
      
-     * __`LOGISTIC REGRESSION` For `BREAST CANCER DATASET`__
+          * __`LOGISTIC REGRESSION` For `BREAST CANCER DATASET`__
    
-   * **Assignment 5**
+       * **Assignment 5**
    
-     * __`Single Layer Perceptron` From Scratch For `OR GATE` and `AND GATE`__
+          * __`Single Layer Perceptron` From Scratch For `OR GATE` and `AND GATE`__
      
-     * __`BAYS CLASSIFIER` From Scratch For `BREAST CANCER DATASET`__
+          * __`BAYS CLASSIFIER` From Scratch For `BREAST CANCER DATASET`__
        
-   * **Assignment 6**
+       * **Assignment 6**
      
-     * __`Single Layer Perceptron` For `IRIS DATASET` From Scratch__
+          * __`Single Layer Perceptron` For `IRIS DATASET` From Scratch__
      
-     * __`Multi Layer Perceptron` For `IRIS DATASET` From Scratch__
+          * __`Multi Layer Perceptron` For `IRIS DATASET` From Scratch__
      
-   * __Assignment 7__
+       * __Assignment 7__
    
-       * __`KMeans` For `IRIS DATASET` From Scratch__
+          * __`KMeans` For `IRIS DATASET` From Scratch__
        
-       * __`KMeans` For `IRIS DATASET` USING `Scikit-Learn`__
+          * __`KMeans` For `IRIS DATASET` USING `Scikit-Learn`__
        
-       * __`Elbow Method`__
+          * __`Elbow Method`__
    
-   * __Assignment 8__
+       * __Assignment 8__
    
-       * __`SOM` For `IRIS DATASET` Using Inbuilt Function and Scratch__
+          * __`SOM` For `IRIS DATASET` Using Inbuilt Function and Scratch__
        
-       * __Comparing Result Using `Silhouette Coefficient`__
+          * __Comparing Result Using `Silhouette Coefficient`__
    
        * __Assignment 9__
    
