@@ -37,6 +37,10 @@ To view in [![Jupyter Notebook](https://jupyter.org/assets/main-logo.svg)](https
 
    * **Assignment 3**
    
+       * __`SINGLE LINEAR REGRESSION`
+       
+       * __`MULTI LINEAR REGRESSION` For `Boston House Pricing DataSet`__
+   
    * **Assignment 4**
    
      * __`LINEAR REGRESSION` From Scratch__
