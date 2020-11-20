@@ -7,8 +7,10 @@ To view in [![Jupyter Notebook](https://jupyter.org/assets/main-logo.svg)](https
 
 ### Intro
 
-   Hy , Dwarka prasad bairwa is here. This is my Machine Learning Assignment Repository. In these Assignment I have used  python library like `pandas` `numpy` `scipy` `matplotlib` `seaborn` and other.I used `python3`
-   For installing python library i used 
+   * Hy , Dwarka prasad bairwa is here. This is my Machine Learning Assignment Repository. In these Assignment I have used  python library like `pandas` `numpy` `scipy` `matplotlib` `seaborn` and other. I used `python3` for implementing Algorithm.
+   
+   * For installing python library i used : 
+   
    ```python
        #For python3
        !pip3 install `library-name`
@@ -17,7 +19,7 @@ To view in [![Jupyter Notebook](https://jupyter.org/assets/main-logo.svg)](https
        !pip install `library-name`
   
    ```
-   Here All code are in `Google colob` or `Jupyter-Notebook`
+   * Here All code are in `Google colob` or `Jupyter-Notebook`
 
 
 ### Assignments
