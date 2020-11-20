@@ -33,19 +33,21 @@ To view in [![Jupyter Notebook](https://jupyter.org/assets/main-logo.svg)](https
    
    * **Assignment 4**
    
-     * LINEAR REGRESSION
+     * __`LINEAR REGRESSION` From Scratch__
      
-     * LOGISTIC REGRESSION For BREAST CANCER DATASET
+     * __`LOGISTIC REGRESSION` For `BREAST CANCER DATASET`__
    
    * **Assignment 5**
    
-     * Single Layer Perceptron From Scratch For OR GATE and AND GATE
+     * __`Single Layer Perceptron` From Scratch For `OR GATE` and `AND GATE`__
      
-     * BAYS CLASSIFIER From Scratch For BREAST CANCER DATASET
+     * __`BAYS CLASSIFIER` From Scratch For `BREAST CANCER DATASET`__
        
    * **Assignment 6**
      
-     * Single Layer Perceptron and Multi Layer Perceptron For IRIS DATASET From Scratch
+     * __`Single Layer Perceptron` For `IRIS DATASET` From Scratch__
+     
+     * __`Multi Layer Perceptron` For `IRIS DATASET` From Scratch__
      
    * **KNN Algorithm From `Scratch` and `Scikit-learn`**
        
