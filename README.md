@@ -32,6 +32,8 @@ To view in [![Jupyter Notebook](https://jupyter.org/assets/main-logo.svg)](https
        * __`Numpy` Programs__
 
    * **Assignment 2**
+   
+       * __Data Mining__
 
    * **Assignment 3**
    
