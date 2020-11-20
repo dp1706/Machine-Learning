@@ -28,6 +28,8 @@ To view in [![Jupyter Notebook](https://jupyter.org/assets/main-logo.svg)](https
        * __`Numpy` Programs__
 
    * **Assignment 1**
+   
+       * __`Numpy` Programs__
 
    * **Assignment 2**
 
