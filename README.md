@@ -28,7 +28,7 @@ To view in [![Jupyter Notebook](https://jupyter.org/assets/main-logo.svg)](https
   
        * **Assignment 0**
    
-        * __`Numpy` Programs__
+          * __`Numpy` Programs__
 
        * **Assignment 1**
    
