@@ -61,15 +61,24 @@ To view in [![Jupyter Notebook](https://jupyter.org/assets/main-logo.svg)](https
      
    * __Assignment 7__
    
-       * __`KMeans` For `IRIS DATASET` From Scratch_
+       * __`KMeans` For `IRIS DATASET` From Scratch__
        
        * __`KMeans` For `IRIS DATASET` USING `Scikit-Learn`__
        
-       * __`Elbow Method`
+       * __`Elbow Method`__
    
    * __Assignment 8__
    
+       * __`SOM` For `IRIS DATASET` Using Inbuilt Function and Scratch__
+       
+       * __Comparing Result Using `Silhouette Coefficient`__
+   
    * __Assignment 9__
+   
+       * __`SVM` For `IRIS DATASET`__
+       
+       * __`RBF` For `IRIS DATASET`__
+       
      
    * **KNN Algorithm From `Scratch` and `Scikit-learn`**
        
