@@ -11,14 +11,14 @@ To view in [![Jupyter Notebook](https://jupyter.org/assets/main-logo.svg)](https
    
    * For installing python library i used : 
    
-    ```python
+   ```python
        #For python3
        !pip3 install `library-name`
   
        #For python
        !pip install `library-name`
   
-    ```
+   ```
    * Here All code are in `Google colob` or `Jupyter-Notebook`
 
 
@@ -80,10 +80,28 @@ To view in [![Jupyter Notebook](https://jupyter.org/assets/main-logo.svg)](https
        
        * __`RBF` For `IRIS DATASET`__
        
-     
-   * **KNN Algorithm From `Scratch` and `Scikit-learn`**
+   * __`Bayesian Network`__
+   
+       * __For Alarm-Burgler Problem__
        
-   * **`matplotlib` and `seaborn`**
+   * __Dimensionality Reduction__
+   
+       * __LDA__
+       
+        * __`LDA` For `IRIS DATASET` From Scratch__
+        
+        * __`LDA` Using Inbuilt Function For `IRIS DATASET`__
+       
+       * __PCA__
+       
+        * __`PCA` For `IRIS DATASET` From Scratch__
+        
+        * __`PCA` Using Inbuilt Function For `IRIS DATASET`__
+        
+   
+   * __`KNN Algorithm` From `Scratch` and `Scikit-learn` For `IRIS DATASET`__
+       
+   * __`matplotlib` and `seaborn`__
 
 
 
