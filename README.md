@@ -4,7 +4,7 @@ To view in [![Jupyter Notebook](https://jupyter.org/assets/main-logo.svg)](https
 
 ## Machine-Learning
 
-![](ML.jpg)
+![](ML1.jpg)
 
 
 ### Intro
